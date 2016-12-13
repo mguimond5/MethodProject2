@@ -3,7 +3,7 @@
 * Name: Marsha Guimond
 * Teacher: Mr.Hardman
 * Assignment: MethodProject2
-* Date Last Modified: December 8, 2016
+* Date Last Modified: December 9, 2016
 *
 */
 import java.util.Scanner;
